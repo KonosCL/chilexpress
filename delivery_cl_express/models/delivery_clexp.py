@@ -23,7 +23,8 @@ class Providerclexp(models.Model):
         else:
             self.url = 'https://testservices.wschilexpress.com/rating/api/v1.0/rates/courier'
 
-    def rate_shipment(self, order):
+    #se cambió de rate_shipment a clexp_rate_shipment para no interferir con los demás proveedores
+    def clexp_rate_shipment(self, order):
         url = 'https://testservices.wschilexpress.com/rating/api/v1.0/rates/courier'
         headers = {
             'Cache-Control': 'no-cache',

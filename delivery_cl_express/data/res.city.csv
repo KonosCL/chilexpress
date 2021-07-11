@@ -1,347 +1,248 @@
-id,name,cod_clexp
-l10n_cl_fe.CL12202,ANTÁRTICA,
-l10n_cl_fe.CL11201,Aisén,
-l10n_cl_fe.CL05602,Algarrobo,
-l10n_cl_fe.CL13502,Alhué,
-l10n_cl_fe.CL08314,Alto Biobío,
-l10n_cl_fe.CL01107,Alto Hospicio,
-l10n_cl_fe.CL03302,Alto del Carmen,
-l10n_cl_fe.CL10202,Ancud,
-l10n_cl_fe.CL04103,Andacollo,
-l10n_cl_fe.CL09201,Angol,
-l10n_cl_fe.CL02101,Antofagasta,
-l10n_cl_fe.CL08302,Antuco,
-l10n_cl_fe.CL08202,Arauco,
-l10n_cl_fe.CL15101,Arica,
-l10n_cl_fe.CL13402,Buin,BUIN
-l10n_cl_fe.CL08402,Bulnes,
-l10n_cl_fe.CL05402,Cabildo,
-l10n_cl_fe.CL12201,Cabo de Hornos,
-l10n_cl_fe.CL08303,Cabrero,
-l10n_cl_fe.CL02201,Calama,
-l10n_cl_fe.CL10102,Calbuco,
-l10n_cl_fe.CL03102,Caldera,
-l10n_cl_fe.CL05502,Calera,
-l10n_cl_fe.CL13403,Calera de Tango,CTAN
-l10n_cl_fe.CL05302,Calle Larga,
-l10n_cl_fe.CL15102,Camarones,
-l10n_cl_fe.CL01402,Camiña,
-l10n_cl_fe.CL04202,Canela,
-l10n_cl_fe.CL09102,Carahue,
-l10n_cl_fe.CL05603,Cartagena,
-l10n_cl_fe.CL05102,Casablanca,
-l10n_cl_fe.CL10201,Castro,
-l10n_cl_fe.CL05702,Catemu,
-l10n_cl_fe.CL07201,Cauquenes,
-l10n_cl_fe.CL08203,Cañete,
-l10n_cl_fe.CL13102,Cerrillos,LOSC
-l10n_cl_fe.CL13103,Cerro Navia,CNAV
-l10n_cl_fe.CL10401,Chaitén,
-l10n_cl_fe.CL07202,Chanco,
-l10n_cl_fe.CL03201,Chañaral,
-l10n_cl_fe.CL08103,Chiguayante,
-l10n_cl_fe.CL11401,Chile Chico,
-l10n_cl_fe.CL08401,Chillán,
-l10n_cl_fe.CL08406,Chillán Viejo,
-l10n_cl_fe.CL06303,Chimbarongo,
-l10n_cl_fe.CL09121,Cholchol,
-l10n_cl_fe.CL10203,Chonchi,
-l10n_cl_fe.CL06302,Chépica,
-l10n_cl_fe.CL11202,Cisnes,
-l10n_cl_fe.CL08403,Cobquecura,
-l10n_cl_fe.CL10103,Cochamó,
-l10n_cl_fe.CL11301,Cochrane,
-l10n_cl_fe.CL06102,Codegua,
-l10n_cl_fe.CL08404,Coelemu,
-l10n_cl_fe.CL11101,Coihaique,
-l10n_cl_fe.CL08405,Coihueco,
-l10n_cl_fe.CL06103,Coinco,
-l10n_cl_fe.CL07402,Colbún,
-l10n_cl_fe.CL01403,Colchane,
-l10n_cl_fe.CL13301,Colina,COLI
-l10n_cl_fe.CL09202,Collipulli,
-l10n_cl_fe.CL06104,Coltauco,
-l10n_cl_fe.CL04302,Combarbalá,
-l10n_cl_fe.CL08101,Concepción,
-l10n_cl_fe.CL13104,Conchalí,CCHA
-l10n_cl_fe.CL05103,Concón,
-l10n_cl_fe.CL07102,Constitución,
-l10n_cl_fe.CL08204,Contulmo,
-l10n_cl_fe.CL03101,Copiapó,
-l10n_cl_fe.CL04102,Coquimbo,
-l10n_cl_fe.CL08102,Coronel,
-l10n_cl_fe.CL14102,Corral,
-l10n_cl_fe.CL09103,Cunco,
-l10n_cl_fe.CL09203,Curacautín,
-l10n_cl_fe.CL13503,Curacaví,CRCV
-l10n_cl_fe.CL10204,Curaco de Vélez,
-l10n_cl_fe.CL08205,Curanilahue,
-l10n_cl_fe.CL09104,Curarrehue,
-l10n_cl_fe.CL07103,Curepto,
-l10n_cl_fe.CL07301,Curicó,
-l10n_cl_fe.CL10205,Dalcahue,
-l10n_cl_fe.CL03202,Diego de Almagro,
-l10n_cl_fe.CL06105,Doñihue,
-l10n_cl_fe.CL13105,El Bosque,ELBO
-l10n_cl_fe.CL08407,El Carmen,
-l10n_cl_fe.CL13602,El Monte,ELMO
-l10n_cl_fe.CL05604,El Quisco,
-l10n_cl_fe.CL05605,El Tabo,
-l10n_cl_fe.CL07104,Empedrado,
-l10n_cl_fe.CL09204,Ercilla,
-l10n_cl_fe.CL13106,Estación Central,ECEN
-l10n_cl_fe.CL08104,Florida,
-l10n_cl_fe.CL09105,Freire,
-l10n_cl_fe.CL03303,Freirina,
-l10n_cl_fe.CL10104,Fresia,
-l10n_cl_fe.CL10105,Frutillar,
-l10n_cl_fe.CL10402,Futaleufú,
-l10n_cl_fe.CL14202,Futrono,
-l10n_cl_fe.CL09106,Galvarino,
-l10n_cl_fe.CL15202,General Lagos,
-l10n_cl_fe.CL09107,Gorbea,
-l10n_cl_fe.CL06106,Graneros,
-l10n_cl_fe.CL11203,Guaitecas,
-l10n_cl_fe.CL05503,Hijuelas,
-l10n_cl_fe.CL10403,Hualaihue,
-l10n_cl_fe.CL07302,Hualañé,
-l10n_cl_fe.CL08112,Hualpén,
-l10n_cl_fe.CL08105,Hualqui,
-l10n_cl_fe.CL01404,Huara,
-l10n_cl_fe.CL03304,Huasco,
-l10n_cl_fe.CL13107,Huechuraba,HUEC
-l10n_cl_fe.CL04201,Illapel,
-l10n_cl_fe.CL13108,Independencia,INDE
-l10n_cl_fe.CL01101,Iquique,
-l10n_cl_fe.CL13603,Isla de Maipo,IMAI
-l10n_cl_fe.CL05201,Isla de Pascua,
-l10n_cl_fe.CL05104,Juan Fernández,
-l10n_cl_fe.CL13109,La Cisterna,LACI
-l10n_cl_fe.CL05504,La Cruz,
-l10n_cl_fe.CL06202,La Estrella,
-l10n_cl_fe.CL13110,La Florida,LAFL
-l10n_cl_fe.CL13111,La Granja,LAGR
-l10n_cl_fe.CL04104,La Higuera,
-l10n_cl_fe.CL05401,La Ligua,
-l10n_cl_fe.CL13112,La Pintana,LAPI
-l10n_cl_fe.CL13113,La Reina,LARE
-l10n_cl_fe.CL04101,La Serena,
-l10n_cl_fe.CL14201,La Unión,
-l10n_cl_fe.CL14203,Lago Ranco,
-l10n_cl_fe.CL11102,Lago Verde,
-l10n_cl_fe.CL12102,Laguna Blanca,
-l10n_cl_fe.CL08304,Laja,
-l10n_cl_fe.CL13302,Lampa,LAMP
-l10n_cl_fe.CL14103,Lanco,
-l10n_cl_fe.CL06107,Las Cabras,
-l10n_cl_fe.CL13114,Las Condes,LCON
-l10n_cl_fe.CL09108,Lautaro,
-l10n_cl_fe.CL08201,Lebu,
-l10n_cl_fe.CL07303,Licantén,
-l10n_cl_fe.CL05505,Limache,
-l10n_cl_fe.CL07401,Linares,
-l10n_cl_fe.CL06203,Litueche,
-l10n_cl_fe.CL10107,Llanquihue,
-l10n_cl_fe.CL05703,Llay Llay,
-l10n_cl_fe.CL13115,Lo Barnechea,LOBA
-l10n_cl_fe.CL13116,Lo Espejo,LOES
-l10n_cl_fe.CL13117,Lo Prado,LOPR
-l10n_cl_fe.CL06304,Lolol,
-l10n_cl_fe.CL09109,Loncoche,
-l10n_cl_fe.CL07403,Longaví,
-l10n_cl_fe.CL09205,Lonquimay,
-l10n_cl_fe.CL08206,Los Alamos,
-l10n_cl_fe.CL05301,Los Andes,
-l10n_cl_fe.CL08301,Los Angeles,
-l10n_cl_fe.CL14104,Los Lagos,
-l10n_cl_fe.CL10106,Los Muermos,
-l10n_cl_fe.CL09206,Los Sauces,
-l10n_cl_fe.CL04203,Los Vilos,
-l10n_cl_fe.CL08106,Lota,
-l10n_cl_fe.CL09207,Lumaco,
-l10n_cl_fe.CL06108,Machalí,
-l10n_cl_fe.CL13118,Macul,MACU
-l10n_cl_fe.CL13119,Maipú,MIPU
-l10n_cl_fe.CL06109,Malloa,
-l10n_cl_fe.CL06204,Marchihue,
-l10n_cl_fe.CL14106,Mariquina,
-l10n_cl_fe.CL02302,María Elena,
-l10n_cl_fe.CL13504,María Pinto,
-l10n_cl_fe.CL07105,Maule,
-l10n_cl_fe.CL10108,Maullín,
-l10n_cl_fe.CL02102,Mejillones,
-l10n_cl_fe.CL09110,Melipeuco,
-l10n_cl_fe.CL13501,Melipilla,MELI
-l10n_cl_fe.CL07304,Molina,
-l10n_cl_fe.CL04303,Monte Patria,
-l10n_cl_fe.CL06110,Mostazal,
-l10n_cl_fe.CL08305,Mulchén,
-l10n_cl_fe.CL14105,Máfil,
-l10n_cl_fe.CL08306,Nacimiento,
-l10n_cl_fe.CL06305,Nancagua,
-l10n_cl_fe.CL12401,Natales,
-l10n_cl_fe.CL06205,Navidad,
-l10n_cl_fe.CL08307,Negrete,
-l10n_cl_fe.CL08408,Ninhue,
-l10n_cl_fe.CL05506,Nogales,
-l10n_cl_fe.CL09111,Nueva Imperial,
-l10n_cl_fe.CL11302,Ohiggins,
-l10n_cl_fe.CL06111,Olivar,
-l10n_cl_fe.CL02202,Ollague,
-l10n_cl_fe.CL05507,Olmué,
-l10n_cl_fe.CL10301,Osorno,
-l10n_cl_fe.CL04301,Ovalle,
-l10n_cl_fe.CL13604,Padre Hurtado,PHUR
-l10n_cl_fe.CL09112,Padre Las Casas,
-l10n_cl_fe.CL04105,Paihuano,
-l10n_cl_fe.CL14107,Paillaco,
-l10n_cl_fe.CL13404,Paine,PAIN
-l10n_cl_fe.CL10404,Palena,
-l10n_cl_fe.CL06306,Palmilla,
-l10n_cl_fe.CL14108,Panguipulli,
-l10n_cl_fe.CL05704,Panquehue,
-l10n_cl_fe.CL05403,Papudo,
-l10n_cl_fe.CL06206,Paredones,
-l10n_cl_fe.CL07404,Parral,
-l10n_cl_fe.CL13121,Pedro Aguirre Cerda,PEDR
-l10n_cl_fe.CL07106,Pelarco,
-l10n_cl_fe.CL07203,Pelluhue,
-l10n_cl_fe.CL08410,Pemuco,
-l10n_cl_fe.CL07107,Pencahue,
-l10n_cl_fe.CL08107,Penco,
-l10n_cl_fe.CL06307,Peralillo,
-l10n_cl_fe.CL09113,Perquenco,
-l10n_cl_fe.CL05404,Petorca,
-l10n_cl_fe.CL06112,Peumo,
-l10n_cl_fe.CL13605,Peñaflor,PENA
-l10n_cl_fe.CL13122,Peñalolén,PLOL
-l10n_cl_fe.CL01405,Pica,
-l10n_cl_fe.CL06113,Pichidegua,
-l10n_cl_fe.CL06201,Pichilemu,
-l10n_cl_fe.CL08411,Pinto,
-l10n_cl_fe.CL13202,Pirque,PIRQ
-l10n_cl_fe.CL09114,Pitrufquén,
-l10n_cl_fe.CL06308,Placilla,
-l10n_cl_fe.CL08412,Portezuelo,
-l10n_cl_fe.CL12301,Porvenir,
-l10n_cl_fe.CL01401,Pozo Almonte,
-l10n_cl_fe.CL12302,Primavera,
-l10n_cl_fe.CL13123,Providencia,PROV
-l10n_cl_fe.CL05105,Puchuncaví,
-l10n_cl_fe.CL09115,Pucón,
-l10n_cl_fe.CL13124,Pudahuel,PUDA
-l10n_cl_fe.CL13201,Puente Alto,PALT
-l10n_cl_fe.CL10101,Puerto Montt,
-l10n_cl_fe.CL10302,Puerto Octay,
-l10n_cl_fe.CL10109,Puerto Varas,
-l10n_cl_fe.CL06309,Pumanque,
-l10n_cl_fe.CL04304,Punitaqui,
-l10n_cl_fe.CL12101,Punta Arenas,
-l10n_cl_fe.CL10206,Puqueldón,
-l10n_cl_fe.CL10303,Purranque,
-l10n_cl_fe.CL09208,Purén,
-l10n_cl_fe.CL05705,Putaendo,
-l10n_cl_fe.CL15201,Putre,
-l10n_cl_fe.CL10304,Puyehue,
-l10n_cl_fe.CL10207,Queilén,
-l10n_cl_fe.CL10208,Quellón,
-l10n_cl_fe.CL10209,Quemchi,
-l10n_cl_fe.CL08308,Quilaco,
-l10n_cl_fe.CL13125,Quilicura,QILI
-l10n_cl_fe.CL08309,Quilleco,
-l10n_cl_fe.CL05501,Quillota,
-l10n_cl_fe.CL08413,Quillón,
-l10n_cl_fe.CL05106,Quilpué,
-l10n_cl_fe.CL10210,Quinchao,
-l10n_cl_fe.CL13126,Quinta Normal,QNOR
-l10n_cl_fe.CL06114,Quinta de Tilcoco,
-l10n_cl_fe.CL05107,Quintero,
-l10n_cl_fe.CL08414,Quirihue,
-l10n_cl_fe.CL06101,Rancagua,
-l10n_cl_fe.CL08415,Ranquil,
-l10n_cl_fe.CL07305,Rauco,
-l10n_cl_fe.CL13127,Recoleta,RECO
-l10n_cl_fe.CL09209,Renaico,
-l10n_cl_fe.CL13128,Renca,RENC
-l10n_cl_fe.CL06115,Rengo,
-l10n_cl_fe.CL06116,Requinoa,
-l10n_cl_fe.CL07405,Retiro,
-l10n_cl_fe.CL05303,Rinconada,
-l10n_cl_fe.CL07306,Romeral,
-l10n_cl_fe.CL14204,Río Bueno,
-l10n_cl_fe.CL07108,Río Claro,
-l10n_cl_fe.CL04305,Río Hurtado,
-l10n_cl_fe.CL11402,Río Ibáñez,
-l10n_cl_fe.CL10305,Río Negro,
-l10n_cl_fe.CL12103,Río Verde,
-l10n_cl_fe.CL09116,Saavedra,
-l10n_cl_fe.CL07307,Sagrada Familia,
-l10n_cl_fe.CL04204,Salamanca,
-l10n_cl_fe.CL05601,San Antonio,
-l10n_cl_fe.CL13401,San Bernardo,SBER
-l10n_cl_fe.CL08416,San Carlos,
-l10n_cl_fe.CL07109,San Clemente,
-l10n_cl_fe.CL05304,San Esteban,
-l10n_cl_fe.CL08417,San Fabián,
-l10n_cl_fe.CL05701,San Felipe,
-l10n_cl_fe.CL06301,San Fernando,
-l10n_cl_fe.CL12104,San Gregorio,
-l10n_cl_fe.CL08418,San Ignacio,
-l10n_cl_fe.CL07406,San Javier,
-l10n_cl_fe.CL13129,San Joaquín,SJOA
-l10n_cl_fe.CL13203,San José de Maipo,
-l10n_cl_fe.CL10306,San Juan de la Costa,
-l10n_cl_fe.CL13130,San Miguel,SMIG
-l10n_cl_fe.CL08419,San Nicolás,
-l10n_cl_fe.CL10307,San Pablo,
-l10n_cl_fe.CL13505,San Pedro,
-l10n_cl_fe.CL08108,San Pedro De La Paz,
-l10n_cl_fe.CL02203,San Pedro de Atacama,
-l10n_cl_fe.CL07110,San Rafael,
-l10n_cl_fe.CL13131,San Ramón,SRAM
-l10n_cl_fe.CL08310,San Rosendo,
-l10n_cl_fe.CL06117,San Vicente,
-l10n_cl_fe.CL08311,Santa Bárbara,
-l10n_cl_fe.CL06310,Santa Cruz,
-l10n_cl_fe.CL08109,Santa Juana,
-l10n_cl_fe.CL05706,Santa María,
-l10n_cl_fe.CL13101,Santiago,STGO
-l10n_cl_fe.CL05606,Santo Domingo,
-l10n_cl_fe.CL02103,Sierra Gorda,
-l10n_cl_fe.CL13601,Talagante,TALA
-l10n_cl_fe.CL07101,Talca,
-l10n_cl_fe.CL08110,Talcahuano,
-l10n_cl_fe.CL02104,Taltal,
-l10n_cl_fe.CL09101,Temuco,
-l10n_cl_fe.CL07308,Teno,
-l10n_cl_fe.CL09117,Teodoro Schmidt,
-l10n_cl_fe.CL03103,Tierra Amarilla,
-l10n_cl_fe.CL13303,Til til,TILT
-l10n_cl_fe.CL12303,Timaukel,
-l10n_cl_fe.CL08207,Tirua,
-l10n_cl_fe.CL02301,Tocopilla,
-l10n_cl_fe.CL09118,Toltén,
-l10n_cl_fe.CL08111,Tomé,
-l10n_cl_fe.CL12402,Torres del Paine,
-l10n_cl_fe.CL11303,Tortel,
-l10n_cl_fe.CL09210,Traiguén,
-l10n_cl_fe.CL08420,Trehuaco,
-l10n_cl_fe.CL08312,Tucapel,
-l10n_cl_fe.CL14101,Valdivia,
-l10n_cl_fe.CL03301,Vallenar,
-l10n_cl_fe.CL05101,Valparaíso,
-l10n_cl_fe.CL07309,Vichuquén,
-l10n_cl_fe.CL09211,Victoria,
-l10n_cl_fe.CL04106,Vicuña,
-l10n_cl_fe.CL09119,Vilcún,
-l10n_cl_fe.CL07407,Villa Alegre,
-l10n_cl_fe.CL05108,Villa Alemana,
-l10n_cl_fe.CL09120,Villarrica,
-l10n_cl_fe.CL13132,Vitacura,VITA
-l10n_cl_fe.CL05109,Viña del Mar,
-l10n_cl_fe.CL07408,Yerbas Buenas,
-l10n_cl_fe.CL08313,Yumbel,
-l10n_cl_fe.CL08421,Yungay,
-l10n_cl_fe.CL05405,Zapallar,
-l10n_cl_fe.CL08409,Ñiquén,
-l10n_cl_fe.CL13120,Ñuñoa,NUNO
+id,cod_clexp
+l10n_cl_fe.CL11201,PAYS
+l10n_cl_fe.CL05602,ALGA
+l10n_cl_fe.CL01107,AHOS
+l10n_cl_fe.CL10202,ANCU
+l10n_cl_fe.CL04103,ANDA
+l10n_cl_fe.CL09201,ANGO
+l10n_cl_fe.CL02101,ANTO
+l10n_cl_fe.CL08202,ARAU
+l10n_cl_fe.CL15101,ARIC
+l10n_cl_fe.CL13402,BUIN
+l10n_cl_fe.CL08402,BULN
+l10n_cl_fe.CL08303,CABR
+l10n_cl_fe.CL02201,CALA
+l10n_cl_fe.CL10102,CALB
+l10n_cl_fe.CL03102,CALD
+l10n_cl_fe.CL05502,CTAN
+l10n_cl_fe.CL13403,CTAN
+l10n_cl_fe.CL09102,CARA
+l10n_cl_fe.CL05603,CART
+l10n_cl_fe.CL05102,CASA
+l10n_cl_fe.CL10201,CAST
+l10n_cl_fe.CL07201,CAUQ
+l10n_cl_fe.CL08203,CANE
+l10n_cl_fe.CL13102,LOSC
+l10n_cl_fe.CL13103,CNAV
+l10n_cl_fe.CL10401,CHAI
+l10n_cl_fe.CL03201,CHAN
+l10n_cl_fe.CL08103,CHIG
+l10n_cl_fe.CL11401,CHCH
+l10n_cl_fe.CL08401,CHVJ
+l10n_cl_fe.CL08406,CHVJ
+l10n_cl_fe.CL06303,CHIM
+l10n_cl_fe.CL10203,CHON
+l10n_cl_fe.CL06302,CHEP
+l10n_cl_fe.CL11202,PCIS
+l10n_cl_fe.CL11301,COCH
+l10n_cl_fe.CL06102,CODE
+l10n_cl_fe.CL08404,COEL
+l10n_cl_fe.CL08405,COIC
+l10n_cl_fe.CL06103,COIN
+l10n_cl_fe.CL07402,COLB
+l10n_cl_fe.CL13301,COLI
+l10n_cl_fe.CL09202,COLL
+l10n_cl_fe.CL06104,COLT
+l10n_cl_fe.CL04302,COMB
+l10n_cl_fe.CL08101,CONC
+l10n_cl_fe.CL13104,CCHA
+l10n_cl_fe.CL05103,CCON
+l10n_cl_fe.CL07102,CONS
+l10n_cl_fe.CL03101,COPI
+l10n_cl_fe.CL04102,COQU
+l10n_cl_fe.CL08102,CORO
+l10n_cl_fe.CL09203,CURC
+l10n_cl_fe.CL13503,CRCV
+l10n_cl_fe.CL08205,CURA
+l10n_cl_fe.CL07301,CURI
+l10n_cl_fe.CL10205,DALC
+l10n_cl_fe.CL03202,DIEG
+l10n_cl_fe.CL06105,DONI
+l10n_cl_fe.CL13105,ELBO
+l10n_cl_fe.CL08407,ECAR
+l10n_cl_fe.CL13602,ELMO
+l10n_cl_fe.CL05604,QSCO
+l10n_cl_fe.CL05605,TABO
+l10n_cl_fe.CL13106,ECEN
+l10n_cl_fe.CL08104,LAFL
+l10n_cl_fe.CL09105,FRER
+l10n_cl_fe.CL03303,FREI
+l10n_cl_fe.CL10104,FRES
+l10n_cl_fe.CL10105,FRUT
+l10n_cl_fe.CL14202,FUTR
+l10n_cl_fe.CL09107,GORB
+l10n_cl_fe.CL06106,GRAN
+l10n_cl_fe.CL05503,HIJU
+l10n_cl_fe.CL10403,HORP
+l10n_cl_fe.CL07302,HUAL
+l10n_cl_fe.CL08112,HPEN
+l10n_cl_fe.CL08105,HAQI
+l10n_cl_fe.CL03304,HUAS
+l10n_cl_fe.CL13107,HUEC
+l10n_cl_fe.CL04201,ILLA
+l10n_cl_fe.CL13108,INDE
+l10n_cl_fe.CL01101,IQUI
+l10n_cl_fe.CL13603,IMAI
+l10n_cl_fe.CL13109,LACI
+l10n_cl_fe.CL05504,LACR
+l10n_cl_fe.CL13110,LAFL
+l10n_cl_fe.CL13111,LAGR
+l10n_cl_fe.CL05401,LALI
+l10n_cl_fe.CL13112,LAPI
+l10n_cl_fe.CL13113,LARE
+l10n_cl_fe.CL04101,LASE
+l10n_cl_fe.CL14201,LAUN
+l10n_cl_fe.CL14203,LRAN
+l10n_cl_fe.CL08304,LAJA
+l10n_cl_fe.CL13302,LAMP
+l10n_cl_fe.CL14103,LANC
+l10n_cl_fe.CL06107,LCAB
+l10n_cl_fe.CL13114,LCON
+l10n_cl_fe.CL09108,LAUT
+l10n_cl_fe.CL08201,LEBU
+l10n_cl_fe.CL05505,LIMA
+l10n_cl_fe.CL07401,LINA
+l10n_cl_fe.CL06203,LCHE
+l10n_cl_fe.CL10107,LLAN
+l10n_cl_fe.CL05703,LLAY
+l10n_cl_fe.CL13115,LOBA
+l10n_cl_fe.CL13116,LOES
+l10n_cl_fe.CL13117,LOPR
+l10n_cl_fe.CL06304,LOLO
+l10n_cl_fe.CL09109,LONC
+l10n_cl_fe.CL07403,LONG
+l10n_cl_fe.CL08206,ALAM
+l10n_cl_fe.CL05301,LAND
+l10n_cl_fe.CL08301,LANG
+l10n_cl_fe.CL14104,LLAG
+l10n_cl_fe.CL10106,LMUE
+l10n_cl_fe.CL04203,LVIL
+l10n_cl_fe.CL08106,LOTA
+l10n_cl_fe.CL06108,MACH
+l10n_cl_fe.CL13118,MACU
+l10n_cl_fe.CL13119,MIPU
+l10n_cl_fe.CL06109,MALO
+l10n_cl_fe.CL06204,MARC
+l10n_cl_fe.CL14106,MRQN
+l10n_cl_fe.CL02302,MARI
+l10n_cl_fe.CL10108,MAUL
+l10n_cl_fe.CL02102,MEJI
+l10n_cl_fe.CL13501,MELI
+l10n_cl_fe.CL07304,MOLI
+l10n_cl_fe.CL04303,MOPA
+l10n_cl_fe.CL06110,SFRA
+l10n_cl_fe.CL08305,MULC
+l10n_cl_fe.CL08306,NACI
+l10n_cl_fe.CL06305,NANC
+l10n_cl_fe.CL12401,PNAT
+l10n_cl_fe.CL08307,NEGR
+l10n_cl_fe.CL05506,NOGA
+l10n_cl_fe.CL09111,NVAI
+l10n_cl_fe.CL06111,OLIV
+l10n_cl_fe.CL05507,OLMU
+l10n_cl_fe.CL10301,OSOR
+l10n_cl_fe.CL04301,OVAL
+l10n_cl_fe.CL13604,PHUR
+l10n_cl_fe.CL09112,PLCA
+l10n_cl_fe.CL14107,PAIL
+l10n_cl_fe.CL13404,PAIN
+l10n_cl_fe.CL06306,PALM
+l10n_cl_fe.CL14108,PANG
+l10n_cl_fe.CL07404,PARR
+l10n_cl_fe.CL13121,PEDR
+l10n_cl_fe.CL08410,PEMU
+l10n_cl_fe.CL08107,PENC
+l10n_cl_fe.CL06307,PERA
+l10n_cl_fe.CL06112,PEUM
+l10n_cl_fe.CL13605,PENA
+l10n_cl_fe.CL13122,PLOL
+l10n_cl_fe.CL01405,CHEP
+l10n_cl_fe.CL06113,PICD
+l10n_cl_fe.CL06201,PICH
+l10n_cl_fe.CL08411,PINT
+l10n_cl_fe.CL13202,PIRQ
+l10n_cl_fe.CL09114,PITR
+l10n_cl_fe.CL12301,PORV
+l10n_cl_fe.CL01401,POZO
+l10n_cl_fe.CL13123,PROV
+l10n_cl_fe.CL05105,PUCH
+l10n_cl_fe.CL09115,PUCO
+l10n_cl_fe.CL13124,PUDA
+l10n_cl_fe.CL13201,PALT
+l10n_cl_fe.CL10101,PMON
+l10n_cl_fe.CL10302,POCT
+l10n_cl_fe.CL10109,PVAR
+l10n_cl_fe.CL04304,PUNI
+l10n_cl_fe.CL12101,PUNT
+l10n_cl_fe.CL10303,PURR
+l10n_cl_fe.CL09208,PURE
+l10n_cl_fe.CL10304,PUYG
+l10n_cl_fe.CL10208,QUEL
+l10n_cl_fe.CL10209,QUEM
+l10n_cl_fe.CL13125,QILI
+l10n_cl_fe.CL05501,QLTA
+l10n_cl_fe.CL08413,QULL
+l10n_cl_fe.CL05106,QUIL
+l10n_cl_fe.CL10210,ACHA
+l10n_cl_fe.CL13126,QNOR
+l10n_cl_fe.CL06114,QTIL
+l10n_cl_fe.CL05107,QUIN
+l10n_cl_fe.CL08414,QUIR
+l10n_cl_fe.CL06101,RANC
+l10n_cl_fe.CL07305,ARAU
+l10n_cl_fe.CL13127,RECO
+l10n_cl_fe.CL09209,RNCO
+l10n_cl_fe.CL13128,RENC
+l10n_cl_fe.CL06115,RENG
+l10n_cl_fe.CL06116,REQU
+l10n_cl_fe.CL07306,ROME
+l10n_cl_fe.CL14204,RIOB
+l10n_cl_fe.CL10305,RNEG
+l10n_cl_fe.CL04204,SALA
+l10n_cl_fe.CL05601,SANT
+l10n_cl_fe.CL13401,SBER
+l10n_cl_fe.CL08416,SCAR
+l10n_cl_fe.CL07109,SCLE
+l10n_cl_fe.CL05701,SFEL
+l10n_cl_fe.CL06301,SFER
+l10n_cl_fe.CL08418,SIGN
+l10n_cl_fe.CL07406,SJAV
+l10n_cl_fe.CL13129,SJOA
+l10n_cl_fe.CL13130,SMIG
+l10n_cl_fe.CL10307,SPAB
+l10n_cl_fe.CL13505,SPED
+l10n_cl_fe.CL08108,SPED
+l10n_cl_fe.CL02203,SPAT
+l10n_cl_fe.CL13131,SRAM
+l10n_cl_fe.CL08310,SANR
+l10n_cl_fe.CL06117,SVIC
+l10n_cl_fe.CL08311,SBAR
+l10n_cl_fe.CL06310,SCRU
+l10n_cl_fe.CL05706,SMAR
+l10n_cl_fe.CL13101,STGO
+l10n_cl_fe.CL05606,SDGO
+l10n_cl_fe.CL02103,SGOR
+l10n_cl_fe.CL13601,TALA
+l10n_cl_fe.CL07101,THNO
+l10n_cl_fe.CL08110,THNO
+l10n_cl_fe.CL02104,TALT
+l10n_cl_fe.CL09101,TEMU
+l10n_cl_fe.CL07308,TENO
+l10n_cl_fe.CL03103,TAMA
+l10n_cl_fe.CL02301,TOCO
+l10n_cl_fe.CL08111,TOME
+l10n_cl_fe.CL09210,TRAI
+l10n_cl_fe.CL08312,TUCA
+l10n_cl_fe.CL14101,VALD
+l10n_cl_fe.CL03301,VALL
+l10n_cl_fe.CL05101,VALP
+l10n_cl_fe.CL09211,VICT
+l10n_cl_fe.CL04106,VICU
+l10n_cl_fe.CL07407,VALG
+l10n_cl_fe.CL05108,VALE
+l10n_cl_fe.CL09120,VILL
+l10n_cl_fe.CL13132,VITA
+l10n_cl_fe.CL05109,VINA
+l10n_cl_fe.CL08313,YUMB
+l10n_cl_fe.CL08421,YUNG
+l10n_cl_fe.CL13120,NUNO
