@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+ TODO: Agregar XML para actualizar cod_clexp a las ciudades de Chile (moduo BMYA de Factura Electrónica)
+ 
+<odoo>
+  <data>
+	  <record id="" model="res.city">
+		<field name="cod_clexp">HUAS</field>
+        </record>
+  </data>
+</odoo>
+-->
