@@ -10,7 +10,7 @@ Chilexpress Connector
 Calculate the delivery cost using Chilexpress API
 """,
     'website': '',
-    'depends': ['delivery', 'mail'],
+    'depends': ['delivery', 'mail', 'l10n_cl_fe'],
     'external_dependencies': {
         'python': [
         ],
@@ -18,7 +18,7 @@ Calculate the delivery cost using Chilexpress API
     'data': [
         'views/delivery_cl_express_view.xml',
         #'views/res_config_settings_views.xml',
-        'data/cl_exp_code.xml',
+        'data/res.city.csv',
     ],
     'installable': True,
     'auto_install': True,
