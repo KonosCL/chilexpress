@@ -13,6 +13,7 @@ Calculate the delivery cost using Chilexpress API
     'depends': ['delivery', 'mail', 'l10n_cl_fe'],
     'external_dependencies': {
         'python': [
+            'requests',
         ],
     },
     'data': [
@@ -25,4 +26,3 @@ Calculate the delivery cost using Chilexpress API
     'application': False,
     'license': 'LGPL-3',
 }
-

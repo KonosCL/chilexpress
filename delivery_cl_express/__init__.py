@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# 
 from odoo import api, SUPERUSER_ID
 from . import models
-
 
 
 def uninstall_hook(cr, registry):
