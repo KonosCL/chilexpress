@@ -9,7 +9,9 @@
         <xpath expr="//page[@name='destination']" position='before'>
             <page string="Chile Express Configuration" attrs="{'invisible': [('delivery_type', '!=', 'clexp')]}">
                 <group>
-                        <field name="clexp_API" attrs="{'required': [('delivery_type', '=', 'clexp')]}"/>
+                    <field name="chilexpress_url" widget="radio"/>
+                    <field name="chilexpress_api_test" attrs="{'required': [('delivery_type', '=', 'chilexpress'), ('chilexpress_url', '=', 'test')], 'invisible': [('chilexpress_url', '!=', 'test')]}"/>
+                    <field name="chilexpress_api_prd" attrs="{'required': [('delivery_type', '=', 'chilexpress'), ('chilexpress_url', '=', 'prd')], 'invisible': [('chilexpress_url', '!=', 'prd')]}"/>
                 </group>
             </page>
         </xpath>
